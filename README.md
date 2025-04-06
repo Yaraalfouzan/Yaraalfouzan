@@ -10,4 +10,5 @@ Hello , I'm Yara a senior Computer Science student with a strong interest in mac
 
 [![](https://visitcount.itsvg.in/api?id=Yaraalfouzan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+ ![](https://github-readme-stats.vercel.app/api?username=Yaraalfouzan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
