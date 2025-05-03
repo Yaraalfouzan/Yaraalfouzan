@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hello , I'm Yara a senior Computer Science student with a strong interest in machine<br>learning, im also intrested in  UX/UI design, web devolpment and natural language processing (NLP). Passionate about leveraging<br>technology to create innovative solutions.
+Hello , I'm Yara a senior Computer Science student with a strong interest in machine learning, im also intrested in  UX/UI design, web devolpment and natural language processing (NLP). Passionate about leveraging<br>technology to create innovative solutions.
 
 
 ## 🌐 Socials:
